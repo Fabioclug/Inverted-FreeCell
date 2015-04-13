@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="Carta.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="20" topLine="32" />
+	</File>
+	<File name="Carta.h" open="1" top="0" tabpos="2">
+		<Cursor position="283" topLine="3" />
+	</File>
+	<File name="Pilha.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="38" topLine="9" />
+	</File>
+	<File name="Pilha.h" open="1" top="0" tabpos="4">
+		<Cursor position="347" topLine="0" />
+	</File>
+	<File name="Pilhabaixo.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="0" topLine="30" />
+	</File>
+	<File name="Pilhabaixo.h" open="1" top="0" tabpos="7">
+		<Cursor position="328" topLine="0" />
+	</File>
+	<File name="Pilhacima.h" open="1" top="0" tabpos="6">
+		<Cursor position="104" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="2148" topLine="42" />
+	</File>
+</CodeBlocks_layout_file>

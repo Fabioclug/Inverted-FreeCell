@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1367245363 source:c:\users\fábio clug\documents\codeblocks\freecell\main.cpp
+	<allegro.h>
+	"Carta.h"
+	"Pilha.h"
+	"Pilhabaixo.h"
+	"Pilhacima.h"
+	<time.h>
+
+1366768694 c:\users\fábio clug\documents\codeblocks\freecell\carta.h
+	<allegro.h>
+	<string>
+
+1366768694 c:\users\fábio clug\documents\codeblocks\freecell\pilha.h
+	"Carta.h"
+
+1366857873 c:\users\fábio clug\documents\codeblocks\freecell\pilhabaixo.h
+	"Carta.h"
+	"Pilha.h"
+
+1366857873 c:\users\fábio clug\documents\codeblocks\freecell\pilhacima.h
+	"Carta.h"
+	"Pilha.h"
+
+1366768693 source:c:\users\fábio clug\documents\codeblocks\freecell\carta.cpp
+	"Carta.h"
+
+1366766538 source:c:\users\fábio clug\documents\codeblocks\freecell\pilha.cpp
+	"Pilha.h"
+	"Carta.h"
+
+1366768731 source:c:\users\fábio clug\documents\codeblocks\freecell\pilhabaixo.cpp
+	"Pilhabaixo.h"
+	"Pilha.h"
+	"Carta.h"
+
+1366768694 source:c:\users\fábio clug\documents\codeblocks\freecell\pilhacima.cpp
+	"Pilhacima.h"
+	"Pilha.h"
+	"Carta.h"
+
